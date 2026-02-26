@@ -1,5 +1,14 @@
-# Open-Sourced-Projects
+# Open Sourced Projects
+These projects are free for you to use and are mostly just old, unfinished, unreleased, and cancelled projects of mine, going as far back as when I first started Roblox Development.
 
-These projects are free for you to use. While credit is not required, I still would love it!
+# Which projects should I use?
+There are three folders, each representing a level of quality: legacy, classic, and modern.
 
-This stuff takes time, so please support me for $1 a month on my [Patreon page](https://www.patreon.com/iGottic).
+### Legacy
+These are my oldest projects, and are mostly here for archival purposes. I don't recommend you learn from these or use them.
+
+### Classic
+These are what I consider to be my "classic" games, following my old style for development. Not super great in terms of production quality, but they are more usable.
+
+### Modern
+The modern projects are much more recent and are best to learn from. I recommend you use these instead of the other two.
